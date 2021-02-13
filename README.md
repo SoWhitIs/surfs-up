@@ -67,7 +67,7 @@ As seen in the below summaries, temperatures on average reached between **70 to 
 <p align="center">
   <img src="resources/apr_rain_summary.png"/>  <img src="resources/oct_rain_summary.png"/>
 
-Taking another dive into the data, focusing on the spring and fall months of April and October doubled down or confirmed that opening _"Surf's Up"_ will be a success, afroementioned.  Primarily, due to the favorable weather conditions. 
+Taking another dive into the data, focusing on the spring and fall months of April and October doubled down or confirmed that opening _"Surf's Up"_ will be a success. Primarily, due to the favorable weather conditions. 
 
 
 #### Author
