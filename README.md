@@ -7,7 +7,7 @@ In looking to open a local surf and ice cream shop, _"Surf's Up"_ on the island 
 
 ## Resources
 
-* Data Source(s): hawaii.sqlite
+* Data Source(s): [hawaii.sqlite](hawaii.sqlite)
 
 * Software / Tools: Visual Studio Code, 1.52. 1 | Python 3.7.6 64-bit  | Python Libaries: Pandas, Numpy | SQLite | SQLAlchemy | Flask | JSONIFY | Jupyter Notebook** 
 
